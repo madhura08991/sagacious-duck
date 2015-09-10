@@ -1,4 +1,5 @@
-package data.structures;
+//Removed duplicated from a linked list
+
 import java.util.*;
 
 //Defining Node class for LinkedList
